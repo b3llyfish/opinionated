@@ -1,4 +1,4 @@
-[h1] Opinionated [/2]
+[h1] Opinionated [/h1]
 Mod that tweaks certain opinion modifiers and define properties to create more strife between incompatible characters.
 
 This mod is largely for my own personal use so any values altered by it may be subject to change.
