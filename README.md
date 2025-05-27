@@ -19,7 +19,7 @@ Other than that this mod should be compatible with everything.
 
 [h3] Details [/h3]
 
-[h4] Defines [/h4]
+[b] Defines [/b]
 * MOTHER: 50 -> 10
 * FATHER: 50 -> 10
 * SIBLING: 25 -> 5
@@ -37,13 +37,13 @@ Other than that this mod should be compatible with everything.
 * PARTIALLY_NON_RIGHTFUL_LIEGE_OPINION: -5 -> -10
 * NON_RIGHTFUL_LIEGE_OPINION: -5 -> -10
 
-[h4] Faith Doctrines [/h4]
+[b] Faith Doctrines [/b]
 All faith doctrine penalties have changed by -5 unless listed below.
 
 * Witchcraft: -15 -> -25
 * Cannibal: -30 -> -50
 
-[h4] Traits [/h4]
+[b] Traits [/b]
 * Opposite personality trait penalties have been doubled (i.e. -10 -> -15 and -15 -> -30)
 * Vassal type opinion modifiers (e.g gloryhound) on personality traits have been increased or decreased by 5
 * Vassal and liege opinion modifiers on personality traits have been increased or decreased by 5
