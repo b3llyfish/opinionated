@@ -1,0 +1,29 @@
+NCharacterOpinion = {
+	# reduce family related opinions
+	MOTHER = 10
+	FATHER = 10
+	SIBLING = 5
+	CHILD = 5
+	SPOUSE = 0 # will make choosing a spouse more important, lest they plot against you...
+	
+	# increase cultural acceptance penalty
+	ZERO_CULTURE_ACCEPTANCE_SAME_REALM = -50
+	ZERO_CULTURE_ACCEPTANCE = -25
+	
+	SAME_DYNASTY = 10 # slight boost to dynasty
+	
+	# make the negative values more impacting, rest unchanged
+	PIOUS = { -20 0 5 10 20 30 }
+	PRESTIGIOUS = { -20 0 5 10 20 30 }
+	PIOUS_MAGNIFICENCE = { -10 0 3 5 10 15 }
+	
+	SHORT_REIGN_YEARS = 5 # 0 - 5 years short reign, 10+ long reign
+	
+	HOLDS_CLAIMED_TITLE = -15 # decreased slightly
+	
+	SINFUL_TRAIT = -20 # sinners be judged
+	
+	# slight increase the non rightful liege penalty
+	PARTIALLY_NON_RIGHTFUL_LIEGE_OPINION = -10
+	NON_RIGHTFUL_LIEGE_OPINION = -10
+}
